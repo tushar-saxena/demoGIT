@@ -1,1 +1,1 @@
-this is text from file b.
+hi all this is text from file b.
