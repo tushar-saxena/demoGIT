@@ -1,0 +1,3 @@
+This file is from demoGIT.
+hi alldfslthis is text from file b.
+this is added to remot3e.
