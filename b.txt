@@ -1,1 +1,3 @@
-hi all this is text from file b.
+This file is from gitExercise.
+hi alldfslthis is text from file b.
+this is added to remot3e.
