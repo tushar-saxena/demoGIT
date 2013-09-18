@@ -1,3 +1,2 @@
-inner a file from gitExercise.
-
+inner a from demoGIT.
 
